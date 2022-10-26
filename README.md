@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @blazon
+- 👋 Hi, I’m @blazen
 - 📫 How to reach me : Blaszen.dev@gmail.com
 
-About Me:
+---About Me:
 👨🏾‍💻I’m currently working on a ▫️Full Stack React Native app<br>🍻I’m looking to collaborate on ▫️React Native projects<br> 🤝I’m looking for help with ▫️Backend development<br>🌱I’m currently learning ▫️ Typescript<br>💬Ask me about ▫️my projects<br>⚡️fun fact ▫️self-taught programmer
 
 
