@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blazen
+- 👋 Hi, I’m @blaszen
 - 📫 How to reach me : Blaszen.dev@gmail.com
 
 ---About Me:
